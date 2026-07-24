@@ -1,0 +1,6 @@
+{
+  "name": "MapleStory Classic RPG",
+  "description": "빅뱅 전 옛날 메이플스토리 감성의 2D 사이드스크롤 캔버스 RPG 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
